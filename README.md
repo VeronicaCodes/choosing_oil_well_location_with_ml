@@ -1,4 +1,4 @@
-# Finding the best place for a new oil well
+# Choosing the best  location for the oil well
 
 Using machine learning to build the model that will help to pick the location for the new oil well with the highest profit margin with analysis potential profits and risks using the Bootstrap technique.
 
